@@ -10,11 +10,25 @@ Olá! Sou Elaine Matos, estudante de Segurança da Informação e profissional c
 
 
 ###
-- 🌱 I’m currently learning ...
+- 🌱 Em aprendizagem continua ...
   
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - 
+![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-F42626?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![google cloud](https://img.shields.io/badge/Google_Cloud-08AF2B?style=for-the-badge&logo=google-cloud&logoColor=white)
+![microsoft azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+-
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-FA7343?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-663399?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
 
    
 ### 
