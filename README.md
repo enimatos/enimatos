@@ -7,9 +7,18 @@
 
 
 
-# Página em construção
 
+###
+- 🌱 I’m currently learning ...
+  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 
 
+   
+### 
+- 📫 How to reach me: ...
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/elainejfmatos/)](https://www.linkedin.com/in/elainejfmatos/)
 
 #### Últimos trabalhos relevantes:
 - https://jogo-do-numero-secreto-weld-mu.vercel.app/
