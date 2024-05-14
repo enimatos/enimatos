@@ -1,6 +1,7 @@
-## Olá rede 👋
+## Bem-vindo ao meu Perfil no GitHub!
 
-### Meu nome é Elaine Matos, profissional em transição de carreira, buscando conhecimento necessário para alcançar meu objetivo.
+Olá! Sou Elaine Matos, estudante de Segurança da Informação e profissional com experiência em Analista de Suporte e Monitoramento. Tenho certificações em AWS Cloud Practitioner e Azure SC-900, além de conhecimentos em Linux, Docker, Terraform, HTML, CSS, JavaScript, C# e Python. Estou aberto a colaborações e interessado em projetos desafiadores. Vamos conectar e criar juntos!
+
 
 
 ![FotoEditada](https://github.com/enimatos/enimatos/assets/69444237/52b55a9c-6b56-4758-9134-fc4febc29ae2)
