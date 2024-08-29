@@ -3,8 +3,9 @@
 Olá! Sou Elaine Matos, estudante de Cloud e profissional com experiência em Analista de Suporte e Monitoramento. Tenho certificações em AWS Cloud Practitioner e Azure SC-900, além de conhecimentos em Linux, Docker, Terraform, HTML, CSS, JavaScript e Python. Estou aberta a colaborações e interessada em projetos desafiadores. Vamos nos conectar e criar juntos!
 
 
+![minhaFoto-pequena](https://github.com/user-attachments/assets/14130869-b91f-47af-b461-976ac03a629a)
 
-![FotoEditada](https://github.com/enimatos/enimatos/assets/69444237/52b55a9c-6b56-4758-9134-fc4febc29ae2)
+
 
 
 
