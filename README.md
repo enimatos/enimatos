@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Estudante de desenvolvimento web, com conhecimento e uso em projetos pessoais em HTML, CSS, JavaScript e NodeJs, estou em busca da minha primeira oportunidade para ingressar nessa área. Minhas experiências são como analista de suporte e monitoramento de redes e serviços. Tenho certificações em AWS Cloud Practitioner, AWS SAA e Azure SC-900, além de conhecimentos em Linux, Terraform e Python. 
+Estudante de desenvolvimento web, com conhecimento e uso em projetos pessoais em HTML, CSS, JavaScript e NodeJs, estou em busca da minha primeira oportunidade para ingressar nessa área. Minhas experiências anteriores são como analista de suporte e monitoramento de redes e serviços. Tenho certificações em AWS Cloud Practitioner, AWS SAA e Azure SC-900, além de conhecimentos em Linux, Terraform e Python. 
 
 Estou interessada em projetos desafiadores. Vamos nos conectar e criar juntos!
 
