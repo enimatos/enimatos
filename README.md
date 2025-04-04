@@ -1,17 +1,15 @@
-## Bem-vindo ao meu Perfil no GitHub!
+# Olá, eu sou a Elaine! 👋
 
-Olá! Sou Elaine Matos, estudante de Cloud e profissional com experiência em Analista de Suporte e Monitoramento. Tenho certificações em AWS Cloud Practitioner e Azure SC-900, além de conhecimentos em Linux, Docker, Terraform, HTML, CSS, JavaScript e Python. Estou aberta a colaborações e interessada em projetos desafiadores. Vamos nos conectar e criar juntos!
+## 🚀 Sobre mim
 
+Estudante de desenvolvimento web, com conhecimento e uso em projetos pessoais em HTML, CSS, JavaScript e NodeJs, estou em busca da minha primeira oportunidade para ingressar nessa área. Minhas experiências são como analista de suporte e monitoramento de redes e serviços. Tenho certificações em AWS Cloud Practitioner, AWS SAA e Azure SC-900, além de conhecimentos em Linux, Terraform e Python. 
 
-![minhaFoto-pequena](https://github.com/user-attachments/assets/14130869-b91f-47af-b461-976ac03a629a)
-
-
-
+Estou interessada em projetos desafiadores. Vamos nos conectar e criar juntos!
 
 
+![Logo](https://avatars.githubusercontent.com/u/69444237?v=4)
 
-###
-- 🌱 Em aprendizagem continua ...
+## 🛠 Habilidades
   
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -28,15 +26,13 @@ Olá! Sou Elaine Matos, estudante de Cloud e profissional com experiência em An
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-FF00FF?style=for-the-badge&logo=ko-fi&logoColor=white)](https://enimatos.github.io/js-developer-portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainejfmatos/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enimatos/)
 
+## ✨ Últimos trabalhos relevantes:
 
-   
-### 
-- 📫 How to reach me: ...
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/elainejfmatos/)](https://www.linkedin.com/in/elainejfmatos/)
-
-#### Últimos trabalhos relevantes:
 - https://jogo-do-numero-secreto-weld-mu.vercel.app/
 - https://decodificador-oracle-one-bay.vercel.app/
 - https://portfolio-nine-bay-27.vercel.app/
