@@ -42,6 +42,15 @@ Estou interessada em projetos desafiadores. Vamos nos conectar e criar juntos!
 - https://decodificador-oracle-one-bay.vercel.app/
 - https://portfolio-nine-bay-27.vercel.app/
 
+
+## 📊 Distribuição de Tecnologias no Projeto
+
+![Gráfico de Pizza - Tecnologias](./tecnologias-pizza.png)
+
+- **CSS**: 45.6%
+- **HTML**: 30.5%
+- **JavaScript**: 23.9%
+
 <!--
 **enimatos/enimatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
