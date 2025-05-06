@@ -9,11 +9,15 @@ Estou interessada em projetos desafiadores. Vamos nos conectar e criar juntos!
 
 ![Logo](https://avatars.githubusercontent.com/u/69444237?v=4)
 
+<div align="center">
+          
 ![enimatos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enimatos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ![enimatos's Stats](https://github-readme-stats.vercel.app/api?username=enimatos&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![enimatos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enimatos&theme=tokyonight&hide_border=false)
+![enimatos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enimatos&theme=dracula&hide_border=true)
+</div>
 
+_________________ 
 ## 🛠 Habilidades
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
